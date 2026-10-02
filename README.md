@@ -263,9 +263,6 @@ Distribution channels contributed differently to booking volume and booking beha
 
 The processed warehouse data is visualized through an interactive **Power BI dashboard**.
 
-### Dashboard Preview
-
-![Power BI Dashboard](dashboard-preview/powerbi-dashboard.png)
 
 The dashboard provides an analytical view of:
 
@@ -276,9 +273,6 @@ The dashboard provides an analytical view of:
 * Market segments
 * Distribution channels
 * Customer characteristics
-
-**Power BI Report:**
-[View Interactive Dashboard](YOUR_POWER_BI_LINK)
 
 ---
 
